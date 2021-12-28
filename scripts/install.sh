@@ -1,4 +1,5 @@
 #!/bin/bash
+sudo su
 source /home/ec2-user/.bashrc
 
 echo "node version"
