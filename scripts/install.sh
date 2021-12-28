@@ -1,3 +1,4 @@
+#!/bin/bash
 source /home/ec2-user/.bashrc
 
 echo "node version"
