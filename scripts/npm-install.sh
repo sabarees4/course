@@ -1,3 +1,4 @@
+#!/bin/bash
 source /home/ec2-user/.bashrc
 
 if [ "$DEPLOYMENT_GROUP_NAME" == "devCrsEngV2DepGrp" ]
